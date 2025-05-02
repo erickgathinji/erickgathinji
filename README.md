@@ -19,7 +19,7 @@ Whether you have questions about my expertise, collaborate, or want to discuss y
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=erickgathinji&label=Profile%20views&color=0e75b6&style=flat&line_height=52" alt="erickgathinji" />
+  <img src="https://komarev.com/ghpvc/?username=silasjimmy&label=Profile%20views&color=0e75b6&style=flat&line_height=52" alt="" />
 </p>
 
 
