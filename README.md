@@ -15,9 +15,9 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-🎓 I'm a **Salesforce Certified Administrator & AI Associate** with a **background in Finance** and a strong passion for **technology, data analytics, and CRM automation**.
+I'm a **3x Salesforce Certified Professional** with a **solid background in Finance** and a strong passion for **business technology, data, CRM automation, and digital precision**.
 
 💼 Currently building [**Eryx Digital**](https://erickgathinji.github.io/showcase-hub/) – a solutions agency helping startups grow with Salesforce, virtual assistance, analytics, and websites.
 
