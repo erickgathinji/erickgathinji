@@ -37,7 +37,7 @@ If you're looking to collaborate on Salesforce CRM optimization, data strategy, 
 
 ### Let’s Connect
 Whether you have questions about my expertise, services or want to discuss your project, feel free to reach out. Let’s start a conversation about how I can support your goals.
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/erick-gathinji/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://erickgathinji.github.io/showcase-hub/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="mailto:ericgathinji@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
