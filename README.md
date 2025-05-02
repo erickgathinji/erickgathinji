@@ -1,11 +1,10 @@
-<h1 align="center">Hello!</h1>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Finance+%7C+Salesforce+%7C+Data;&center=true&height=45&color=00BFFF&vCenter=true&font=Fira+Code&size=20&pause=1000">
 </h1>
 
 
-I'm Erick Gathinji, a **3x Salesforce Certified Professional** with a **solid background in Finance** and a strong passion for **business technology, data, CRM automation, and digital precision**. My background in finance fuels my ability to think strategically, work with precision, and interpret numbers that drive growth.
+Hello! I'm Erick Gathinji, a **3x Salesforce Certified Professional** with a **solid background in Finance** and a strong passion for **business technology, data, CRM automation, and digital precision**. My background in finance fuels my ability to think strategically, work with precision, and interpret numbers that drive growth.
 
 I am currently committed to an intensive **Data Science** program with **ALX Africa**, I’m honing my skills in data analysis, python, machine learning, and real-world problem solving to expand my impact on analytics and tech consulting.
 
@@ -24,7 +23,7 @@ If you're looking to collaborate on Salesforce CRM optimization, data strategy, 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maseretihenry&label=Profile%20views&color=0e75b6&style=flat" alt="maseretihenry" />
 </p>
----
+
 
 ### Let’s Connect
 Whether you have questions about my expertise, services or want to discuss your project, feel free to reach out. Let’s start a conversation about how I can support your goals.
