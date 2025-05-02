@@ -19,9 +19,9 @@
 
 I'm a **3x Salesforce Certified Professional** with a **solid background in Finance** and a strong passion for **business technology, data, CRM automation, and digital precision**.
 
-💼 Currently building [**Eryx Digital**](https://erickgathinji.github.io/showcase-hub/) – a solutions agency helping startups grow with Salesforce, virtual assistance, analytics, and websites.
+Currently diving into **Data Science** through an intensive program with [**ALX Africa**(https:alxafrica.com)], I’m honing my skills in data analysis, python, machine learning, and real-world problem solving to drive actionable insights.
 
-🎹 I'm also a musician who plays the piano and organ during church services.
+Music is my main hobby. I play the piano and organ, combining my love for creativity with discipline.
 
 ---
 
