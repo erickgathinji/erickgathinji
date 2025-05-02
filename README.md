@@ -16,6 +16,23 @@ Whether you have questions about my expertise, collaborate, or want to discuss y
 
 <br>
 
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maseretihenry&label=Profile%20views&color=0e75b6&style=flat&line_height=52" alt="maseretihenry" />
+</p>
+
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erickgathinji&show_icons=true&theme=tokyonight" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgathinji&layout=compact&theme=tokyonight" style="height: 200px;" />
+</p>
+
+
+<br>
+
 <p align="center" >
   <a href="https://www.linkedin.com/in/erick-gathinji/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,17 +47,3 @@ Whether you have questions about my expertise, collaborate, or want to discuss y
     <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   </a>
 </p>
-
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erickgathinji&show_icons=true&theme=tokyonight" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgathinji&layout=compact&theme=tokyonight" style="height: 200px;" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maseretihenry&label=Profile%20views&color=0e75b6&style=flat&line_height=52" alt="maseretihenry" />
-</p>
-
