@@ -41,16 +41,3 @@ Whether you have questions about my expertise, collaborate, or want to discuss y
   <img src="https://komarev.com/ghpvc/?username=maseretihenry&label=Profile%20views&color=0e75b6&style=flat&line_height=52" alt="maseretihenry" />
 </p>
 
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erickgathinji&show_icons=true&theme=tokyonight&line_height=52" />
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgathinji&count_private=true&theme=tokyonight&line_height=52&langs_count=7">
-</p>
-
