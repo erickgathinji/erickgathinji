@@ -10,7 +10,11 @@ I am currently committed to an intensive **Data Science** program with **ALX Afr
 
 Music is my hobby. I play the piano and organ, which nurtures my creativity, discipline, and attention to rhythm (both in music and in code).
 
+<br>
+
 Whether you have questions about my expertise, collaborate, or want to discuss your project, feel free to reach out. Let’s start a conversation about how I can support your goals today.
+
+<br>
 
 <p align="center" >
   <a href="https://www.linkedin.com/in/erick-gathinji/" target="_blank" style="margin-right: 10px;">
