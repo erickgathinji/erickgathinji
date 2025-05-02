@@ -4,7 +4,7 @@
 </h1>
 
 
-Hello! I'm Erick Gathinji, a **3x Salesforce Certified Professional** with a **solid background in Finance** and a strong passion for **business technology, data, CRM automation, and digital precision**. My background in finance fuels my ability to think strategically, work with precision, and interpret numbers that drive growth.
+Hello! I'm Erick Gathinji, a 3x Salesforce Certified Professional with a solid background in Finance and a strong passion for business technology, data, CRM automation, and digital precision. My background in finance fuels my ability to think strategically, work with precision, and interpret numbers that drive growth.
 
 I am currently committed to an intensive **Data Science** program with **ALX Africa**, I’m honing my skills in data analysis, python, machine learning, and real-world problem solving to expand my impact on analytics and tech consulting.
 
@@ -28,11 +28,20 @@ If you're looking to collaborate on Salesforce CRM optimization, data strategy, 
 ### Let’s Connect
 Whether you have questions about my expertise, services or want to discuss your project, feel free to reach out. Let’s start a conversation about how I can support your goals.
 <p align="left">
-  <a href="https://www.linkedin.com/in/erick-gathinji/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://erickgathinji.github.io/showcase-hub/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="mailto:ericgathinji@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.salesforce.com/trailblazer/erickgathinji" target="_blank"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/erick-gathinji/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://erickgathinji.github.io/showcase-hub/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:ericgathinji@gmail.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/erickgathinji" target="_blank">
+    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  </a>
 </p>
+
 
 
 
