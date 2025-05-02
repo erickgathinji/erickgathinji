@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Erick Gathinji 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Salesforce+Admin+%7C+Data+Analyst+%7C+Tech+Enthusiast;Passionate+about+CRM,+Data+%26+Automation!&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Finance+%7C+3x+Salesforce+Certified+%7C+Data+Enthusiast+%7C+Web+Designer;Passionate+about+CRM,+Data+%26+Digital Precision!&center=true&width=600&height=45">
 </p>
 
 <p align="center">
