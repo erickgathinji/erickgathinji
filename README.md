@@ -17,30 +17,14 @@
 
 ### About Me
 
-I'm a **3x Salesforce Certified Professional** with a **solid background in Finance** and a strong passion for **business technology, data, CRM automation, and digital precision**.
+I'm a **3x Salesforce Certified Professional** with a **solid background in Finance** and a strong passion for **business technology, data, CRM automation, and digital precision**. My background in finance fuels my ability to think strategically, work with precision, and interpret numbers that drive growth.
 
-Currently diving into **Data Science** through an intensive program with [**ALX Africa**(https:alxafrica.com)], I’m honing my skills in data analysis, python, machine learning, and real-world problem solving to drive actionable insights.
+I am currently committed to an intensive **Data Science** program with **ALX Africa**, I’m honing my skills in data analysis, python, machine learning, and real-world problem solving to expand my impact on analytics and tech consulting.
 
-Music is my main hobby. I play the piano and organ, combining my love for creativity with discipline.
+Music is my hobby. I play the piano and organ, which nurtures my creativity, discipline, and attention to rhythm (both in music and in code).
 
----
+If you're looking to collaborate on Salesforce CRM optimization, data strategy, or tech solutions that blend business logic with technical execution, let’s connect!
 
-### 🧰 Tech Stack
-
-- **CRM:** Salesforce (Admin, Flows, Reports, Process Builder)
-- **Data & Analytics:** Python, Tableau, Excel, SQL basics
-- **Web:** HTML, CSS, JavaScript, Django, GitHub Pages
-- **Tools:** Google Workspace, Zoom, Slack, Mailchimp
-
----
-
-### 🏆 Certifications & Achievements
-
-- ✅ Salesforce Certified Administrator – *Oct 2024*
-- ✅ Salesforce Certified AI Associate – *Apr 2025*
-- ✅ 26 Superbadges on Trailhead
-- ✅ Google Digital Marketing Certificate
-- ✅ ALX Professional Foundations + Data Science Program
 
 ---
 
