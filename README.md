@@ -32,7 +32,10 @@ Whether you have questions about my expertise, services or want to discuss your 
   <a href="https://www.salesforce.com/trailblazer/erickgathinji" target="_blank"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maseretihenry&label=Profile%20views&color=0e75b6&style=flat" alt="maseretihenry" />
+</p>
+
 
 
 
