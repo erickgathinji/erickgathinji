@@ -42,6 +42,14 @@ Whether you have questions about my expertise, collaborate, or want to discuss y
 
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erickgathinji&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgathinji&layout=compact&theme=tokyonight" />
+</p>
+
+
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erickgathinji&show_icons=true&theme=tokyonight&line_height=52" />
