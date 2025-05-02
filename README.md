@@ -32,12 +32,12 @@ Whether you have questions about my expertise, collaborate, or want to discuss y
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erickgathinji&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=erickgathinji&show_icons=true&theme=tokyonight&line_height=52" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgathinji&layout=compact&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maseretihenry&label=Profile%20views&color=0e75b6&style=flat" alt="maseretihenry" />
+  <img src="https://komarev.com/ghpvc/?username=maseretihenry&label=Profile%20views&color=0e75b6&style=flat&line_height=52" alt="maseretihenry" />
 </p>
 
 
