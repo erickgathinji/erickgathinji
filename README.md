@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Erick Gathinji 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Finance+Graduate+%7C+Salesforce+Certified+%7C+Aspiring+Data+Scientist;&color=00BFFF&center=true&vCenter=true&font=Fira+Code&size=20&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Finance+Graduate+%7C+Salesforce+Certified+%7C+Aspiring+Data+Scientist;&center=true&width=500&height=45&color=00BFFF&vCenter=true&font=Fira+Code&size=20&pause=1000">
 </p>
+
 
 
 
