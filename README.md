@@ -1,14 +1,8 @@
-<h1 align="center">Hi there, I'm Erick Gathinji 👋</h1>
+<h1 align="center">Hello, I'm Erick Gathinji</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Finance+%7C+Salesforce+%7C+Data;&center=true&height=45&color=00BFFF&vCenter=true&font=Fira+Code&size=20&pause=1000">
 </p>
-
-
-
-
-
-
 
 
 <p align="center">
