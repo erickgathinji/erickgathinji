@@ -12,7 +12,7 @@ Music is my hobby. I play the piano and organ, which nurtures my creativity, dis
 
 Whether you have questions about my expertise, collaborate, or want to discuss your project, feel free to reach out. Let’s start a conversation about how I can support your goals today.
 
-<p align="left">
+<p align="left" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/erick-gathinji/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
