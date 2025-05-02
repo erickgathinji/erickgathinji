@@ -14,14 +14,6 @@ Music is my hobby. I play the piano and organ, which nurtures my creativity, dis
 
 Whether you have questions about my expertise, collaborate, or want to discuss your project, feel free to reach out. Let’s start a conversation about how I can support your goals today.
 
-<br>
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=silasjimmy&label=Profile%20views&color=0e75b6&style=flat&line_height=52" alt="" />
-</p>
-
 
 <br>
 
@@ -39,9 +31,6 @@ Whether you have questions about my expertise, collaborate, or want to discuss y
   </a>
   <a href="https://erickgathinji.github.io/showcase-hub/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="mailto:ericgathinji@gmail.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.salesforce.com/trailblazer/erickgathinji" target="_blank">
     <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
