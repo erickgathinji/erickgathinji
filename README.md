@@ -10,23 +10,8 @@ I am currently committed to an intensive **Data Science** program with **ALX Afr
 
 Music is my hobby. I play the piano and organ, which nurtures my creativity, discipline, and attention to rhythm (both in music and in code).
 
-If you're looking to collaborate on Salesforce CRM optimization, data strategy, or tech solutions that blend business logic with technical execution, let’s connect!
+Whether you have questions about my expertise, collaborate, or want to discuss your project, feel free to reach out. Let’s start a conversation about how I can support your goals today.
 
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erickgathinji&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgathinji&layout=compact&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maseretihenry&label=Profile%20views&color=0e75b6&style=flat" alt="maseretihenry" />
-</p>
-
-
-### Let’s Connect
-Whether you have questions about my expertise, services or want to discuss your project, feel free to reach out. Let’s start a conversation about how I can support your goals.
 <p align="left">
   <a href="https://www.linkedin.com/in/erick-gathinji/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -44,7 +29,14 @@ Whether you have questions about my expertise, services or want to discuss your 
 
 
 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erickgathinji&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgathinji&layout=compact&theme=tokyonight">
+</p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maseretihenry&label=Profile%20views&color=0e75b6&style=flat" alt="maseretihenry" />
+</p>
 
