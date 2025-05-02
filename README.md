@@ -32,9 +32,10 @@ Whether you have questions about my expertise, collaborate, or want to discuss y
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erickgathinji&show_icons=true&theme=tokyonight&line_height=52" height="65" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgathinji&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=erickgathinji&show_icons=true&theme=tokyonight" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgathinji&layout=compact&theme=tokyonight" style="height: 200px;" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maseretihenry&label=Profile%20views&color=0e75b6&style=flat&line_height=52" alt="maseretihenry" />
@@ -42,10 +43,6 @@ Whether you have questions about my expertise, collaborate, or want to discuss y
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erickgathinji&show_icons=true&theme=tokyonight" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgathinji&layout=compact&theme=tokyonight" style="height: 200px;" />
-</p>
 
 
 
