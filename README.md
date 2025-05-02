@@ -28,20 +28,10 @@ If you're looking to collaborate on Salesforce CRM optimization, data strategy, 
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erickgathinji&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgathinji&layout=compact&theme=tokyonight">
 </p>
-
----
-
-### 🌱 Current Focus
-
-- Practicing **Salesforce Flow automation**
-- Learning **Machine Learning** & **Natural Language Processing**
-- Growing [**Eryx Digital**](https://erickgathinji.github.io/showcase-hub/) into a global brand
 
 ---
 
