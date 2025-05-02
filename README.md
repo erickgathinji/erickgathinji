@@ -1,16 +1,11 @@
-<h1 align="center">Hello, I'm Erick Gathinji</h1>
+<h1 align="center">Hello!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Finance+%7C+Salesforce+%7C+Data;&center=true&height=45&color=00BFFF&vCenter=true&font=Fira+Code&size=20&pause=1000">
 </p>
 
-> *“Empowering Businesses with Digital Solutions.”*
 
----
-
-### About Me
-
-I'm a **3x Salesforce Certified Professional** with a **solid background in Finance** and a strong passion for **business technology, data, CRM automation, and digital precision**. My background in finance fuels my ability to think strategically, work with precision, and interpret numbers that drive growth.
+I'm Erick Gathinji, a **3x Salesforce Certified Professional** with a **solid background in Finance** and a strong passion for **business technology, data, CRM automation, and digital precision**. My background in finance fuels my ability to think strategically, work with precision, and interpret numbers that drive growth.
 
 I am currently committed to an intensive **Data Science** program with **ALX Africa**, I’m honing my skills in data analysis, python, machine learning, and real-world problem solving to expand my impact on analytics and tech consulting.
 
