@@ -4,14 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Finance+%7C+Salesforce+%7C+Data;&center=true&height=45&color=00BFFF&vCenter=true&font=Fira+Code&size=20&pause=1000">
 </p>
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/erick-gathinji/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://erickgathinji.github.io/showcase-hub/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="mailto:ericgathinji@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.salesforce.com/trailblazer/erickgathinji" target="_blank"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
-</p>
-
+> *“Empowering Businesses with Digital Solutions.”*
 
 ---
 
@@ -46,5 +39,5 @@ Whether you have questions about my expertise, services or want to discuss your 
 
 ---
 
-> *“Tech and strategy working together create real impact.”*
+
 
