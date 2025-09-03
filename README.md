@@ -1,38 +1,31 @@
+# Erick Gathinji | Data Analytics & Salesforce Professional
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Finance+%7C+Salesforce+%7C+Data;&center=true&height=45&color=00BFFF&vCenter=true&font=Fira+Code&size=20&pause=1000">
-</h1>
+A **Data Analytics Professional** and **Certified Salesforce Platform Administrator** experienced in handling messy datasets and provide actionable insights, optimizing CRM systems to drive efficiency and impact. 
+
+Skilled in **SQL, Power BI, Python & Salesforce Flows**.
+
+---
+
+### 💻 Tech Stack & Skills
+
+#### Data Analytics:  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### Salesforce CRM:  
+![Salesforce](https://img.shields.io/badge/Salesforce-1798C1?style=for-the-badge&logo=salesforce&logoColor=white) ![Flow Automation](https://img.shields.io/badge/Flow_Automation-FF8C00?style=for-the-badge&logo=zapier&logoColor=white) ![Reports & Dashboards](https://img.shields.io/badge/Reports_&_Dashboards-007ACC?style=for-the-badge&logo=powerbi&logoColor=white) ![Security](https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=keybase&logoColor=white)
+
+#### Finance & Admin Support:  
+![Finance](https://img.shields.io/badge/Finance-4B0082?style=for-the-badge&logo=paypal&logoColor=white) ![Bookkeeping](https://img.shields.io/badge/Bookkeeping-6A5ACD?style=for-the-badge&logo=coinbase&logoColor=white) ![Scheduling](https://img.shields.io/badge/Calendar-FFA500?style=for-the-badge&logo=google-calendar&logoColor=white) ![Email & Outreach](https://img.shields.io/badge/Email_Outreach-FF4500?style=for-the-badge&logo=gmail&logoColor=white) ![Research](https://img.shields.io/badge/Research-008080?style=for-the-badge&logo=duckduckgo&logoColor=white)
+
+#### Digital Tools & Web:  
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
 
 
-Hello! I'm Erick Gathinji, a 3x Salesforce Certified Professional with a solid background in Finance and a strong passion for business technology, data, CRM automation, and digital precision. My background in finance fuels my ability to think strategically, work with precision, and interpret numbers that drive growth.
+## 🔗 Connect With Me
+- [LinkedIn](http://www.linkedin.com/in/erick-gathinji)  
+- [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/erickgathinji)
 
-I am currently committed to an intensive **Data Science** program with **ALX Africa**, I’m honing my skills in data analysis, python, machine learning, and real-world problem solving to expand my impact on analytics and tech consulting.
+### 📊 GitHub Stats
+![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickgathinji&count_private=true&include_all_commits=true&show_icons=true&theme=jolly&hide_rank=false)
 
-Music is my hobby. I play the piano and organ, which nurtures my creativity, discipline, and attention to rhythm (both in music and in code).
-
-<br>
-
-Whether you have questions about my expertise, collaborate, or want to discuss your project, feel free to reach out. Let’s start a conversation about how I can support your goals today.
-
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erickgathinji&show_icons=true&theme=tokyonight" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgathinji&layout=compact&theme=tokyonight" style="height: 200px;" />
-</p>
-
-
-<br>
-
-<p align="center" >
-  <a href="https://www.linkedin.com/in/erick-gathinji/" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://erickgathinji.github.io/showcase-hub/" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://www.salesforce.com/trailblazer/erickgathinji" target="_blank">
-    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  </a>
-</p>
