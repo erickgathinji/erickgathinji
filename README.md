@@ -1,6 +1,6 @@
 # Erick Gathinji | Data Analytics & Salesforce Professional
 
-A **Data Analytics Professional** and **Certified Salesforce Platform Administrator** experienced in handling messy datasets and provide actionable insights, optimizing CRM systems to drive efficiency and impact. 
+I am a **certified Data Analytics** **and** **Salesforce professional** comfortable with **Excel, SQL, Power BI, Python, Reports & Dashboards, and Salesforce Automation**.
 
 Skilled in **SQL, Power BI, Python & Salesforce Flows**.
 
