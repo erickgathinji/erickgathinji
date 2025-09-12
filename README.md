@@ -2,8 +2,6 @@
 
 I am a **certified Data Analytics** **and** **Salesforce professional** comfortable with **Excel, SQL, Power BI, Python, Reports & Dashboards, and Salesforce Automation**.
 
-Skilled in **SQL, Power BI, Python & Salesforce Flows**.
-
 ---
 
 ### Skills
