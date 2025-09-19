@@ -21,9 +21,11 @@ I am a **certified Data Analytics** **and** **Salesforce professional** comforta
 
 
 ## 🔗 Connect With Me
+- [Portfolio](https://erickgathinji.github.io/portfolio-showcase-hub/)
 - [LinkedIn](http://www.linkedin.com/in/erick-gathinji)  
 - [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/erickgathinji)
 
 ### 📊 GitHub Stats
 ![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickgathinji&count_private=true&include_all_commits=true&show_icons=true&theme=jolly&hide_rank=false)
 
+![Profile views](https://komarev.com/ghpvc/?username=erickgathinji)
