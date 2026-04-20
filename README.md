@@ -21,7 +21,7 @@ I am a **certified Data Analytics** **and** **Salesforce professional** skilled 
 
 
 ## 🔗 Connect With Me
-- [Portfolio](https://erickgathinji.github.io/portfolio-showcase-hub/)
+- [Portfolio](https://ericgathinji.pythonanywhere.com/)
 - [LinkedIn](http://www.linkedin.com/in/erick-gathinji)  
 - [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/erickgathinji)
 
