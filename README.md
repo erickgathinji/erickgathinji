@@ -1,6 +1,6 @@
 # Erick Gathinji | Finance & Data Professional
 
-I am a **certified Data Analytics** **and** **Salesforce professional** comfortable with **Excel, SQL, Power BI, Python, Reports & Dashboards, and Salesforce Automation**.
+I am a **certified Data Analytics** **and** **Salesforce professional** skilled in **Excel, SQL, Power BI, Python, Reports & Dashboards, and Salesforce Automation**.
 
 ---
 
